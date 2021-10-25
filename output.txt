@@ -1,0 +1,301 @@
+
+Generation <0> current_max: 12
+===
+Population 0 : DNA = [1010] : FITNESS = 12
+Population 1 : DNA = [0101] : FITNESS = 6
+Population 2 : DNA = [0001] : FITNESS = 2
+Population 3 : DNA = [0000] : FITNESS = 0
+SELECTION COMPLETE
+Child : DNA = [1010] FITNESS =  12
+==============
+
+Generation <1> current_max: 12
+===
+Population 0 : DNA = [1010] : FITNESS = 12
+Population 1 : DNA = [0101] : FITNESS = 6
+Population 2 : DNA = [0001] : FITNESS = 2
+Population 3 : DNA = [0000] : FITNESS = 0
+SELECTION COMPLETE
+Child : DNA = [0101] FITNESS =  6
+==============
+
+Generation <2> current_max: 12
+===
+Population 0 : DNA = [1010] : FITNESS = 12
+Population 1 : DNA = [0101] : FITNESS = 6
+Population 2 : DNA = [0001] : FITNESS = 2
+Population 3 : DNA = [0000] : FITNESS = 0
+SELECTION COMPLETE
+Child : DNA = [1010] FITNESS =  12
+==============
+
+Generation <3> current_max: 12
+===
+Population 0 : DNA = [1010] : FITNESS = 12
+Population 1 : DNA = [0101] : FITNESS = 6
+Population 2 : DNA = [0001] : FITNESS = 2
+Population 3 : DNA = [0000] : FITNESS = 0
+SELECTION COMPLETE
+Child : DNA = [1010] FITNESS =  12
+==============
+
+Generation <4> current_max: 12
+===
+Population 0 : DNA = [1010] : FITNESS = 12
+Population 1 : DNA = [0101] : FITNESS = 6
+Population 2 : DNA = [0001] : FITNESS = 2
+Population 3 : DNA = [0000] : FITNESS = 0
+SELECTION COMPLETE
+Child : DNA = [0111] FITNESS =  13
+==============
+
+Generation <5> current_max: 13
+===
+Population 0 : DNA = [0111] : FITNESS = 13
+Population 1 : DNA = [1010] : FITNESS = 12
+Population 2 : DNA = [0101] : FITNESS = 6
+Population 3 : DNA = [0001] : FITNESS = 2
+SELECTION COMPLETE
+Child : DNA = [1111] NOT_SUITABLE
+
+Generation <6> current_max: 13
+===
+Population 0 : DNA = [0111] : FITNESS = 13
+Population 1 : DNA = [1010] : FITNESS = 12
+Population 2 : DNA = [0101] : FITNESS = 6
+Population 3 : DNA = [0001] : FITNESS = 2
+SELECTION COMPLETE
+Child : DNA = [1000] FITNESS =  5
+==============
+
+Generation <7> current_max: 13
+===
+Population 0 : DNA = [0111] : FITNESS = 13
+Population 1 : DNA = [1010] : FITNESS = 12
+Population 2 : DNA = [0101] : FITNESS = 6
+Population 3 : DNA = [1000] : FITNESS = 5
+SELECTION COMPLETE
+Child : DNA = [0101] FITNESS =  6
+==============
+
+Generation <8> current_max: 13
+===
+Population 0 : DNA = [0111] : FITNESS = 13
+Population 1 : DNA = [1010] : FITNESS = 12
+Population 2 : DNA = [0101] : FITNESS = 6
+Population 3 : DNA = [1000] : FITNESS = 5
+SELECTION COMPLETE
+Child : DNA = [0101] FITNESS =  6
+==============
+
+Generation <9> current_max: 13
+===
+Population 0 : DNA = [0111] : FITNESS = 13
+Population 1 : DNA = [1010] : FITNESS = 12
+Population 2 : DNA = [0101] : FITNESS = 6
+Population 3 : DNA = [1000] : FITNESS = 5
+SELECTION COMPLETE
+Child : DNA = [1010] FITNESS =  12
+==============
+
+Generation <10> current_max: 13
+===
+Population 0 : DNA = [0111] : FITNESS = 13
+Population 1 : DNA = [1010] : FITNESS = 12
+Population 2 : DNA = [0101] : FITNESS = 6
+Population 3 : DNA = [1000] : FITNESS = 5
+SELECTION COMPLETE
+Child : DNA = [1110] FITNESS =  16
+==============
+
+Generation <11> current_max: 16
+===
+Population 0 : DNA = [1110] : FITNESS = 16
+Population 1 : DNA = [0111] : FITNESS = 13
+Population 2 : DNA = [1010] : FITNESS = 12
+Population 3 : DNA = [0101] : FITNESS = 6
+SELECTION COMPLETE
+Child : DNA = [0101] FITNESS =  6
+==============
+
+Generation <12> current_max: 16
+===
+Population 0 : DNA = [1110] : FITNESS = 16
+Population 1 : DNA = [0111] : FITNESS = 13
+Population 2 : DNA = [1010] : FITNESS = 12
+Population 3 : DNA = [0101] : FITNESS = 6
+SELECTION COMPLETE
+Child : DNA = [1010] FITNESS =  12
+==============
+
+Generation <13> current_max: 16
+===
+Population 0 : DNA = [1110] : FITNESS = 16
+Population 1 : DNA = [0111] : FITNESS = 13
+Population 2 : DNA = [1010] : FITNESS = 12
+Population 3 : DNA = [0101] : FITNESS = 6
+SELECTION COMPLETE
+Child : DNA = [1100] FITNESS =  9
+==============
+
+Generation <14> current_max: 16
+===
+Population 0 : DNA = [1110] : FITNESS = 16
+Population 1 : DNA = [0111] : FITNESS = 13
+Population 2 : DNA = [1010] : FITNESS = 12
+Population 3 : DNA = [1100] : FITNESS = 9
+SELECTION COMPLETE
+Child : DNA = [1101] NOT_SUITABLE
+
+Generation <15> current_max: 16
+===
+Population 0 : DNA = [1110] : FITNESS = 16
+Population 1 : DNA = [0111] : FITNESS = 13
+Population 2 : DNA = [1010] : FITNESS = 12
+Population 3 : DNA = [1100] : FITNESS = 9
+SELECTION COMPLETE
+Child : DNA = [0111] FITNESS =  13
+==============
+
+Generation <16> current_max: 16
+===
+Population 0 : DNA = [1110] : FITNESS = 16
+Population 1 : DNA = [0111] : FITNESS = 13
+Population 2 : DNA = [1010] : FITNESS = 12
+Population 3 : DNA = [1100] : FITNESS = 9
+SELECTION COMPLETE
+Child : DNA = [0100] FITNESS =  4
+==============
+
+Generation <17> current_max: 16
+===
+Population 0 : DNA = [1110] : FITNESS = 16
+Population 1 : DNA = [0111] : FITNESS = 13
+Population 2 : DNA = [1010] : FITNESS = 12
+Population 3 : DNA = [1100] : FITNESS = 9
+SELECTION COMPLETE
+Child : DNA = [1110] FITNESS =  16
+==============
+
+Generation <18> current_max: 16
+===
+Population 0 : DNA = [1110] : FITNESS = 16
+Population 1 : DNA = [0111] : FITNESS = 13
+Population 2 : DNA = [1010] : FITNESS = 12
+Population 3 : DNA = [1100] : FITNESS = 9
+SELECTION COMPLETE
+Child : DNA = [1110] FITNESS =  16
+==============
+
+Generation <19> current_max: 16
+===
+Population 0 : DNA = [1110] : FITNESS = 16
+Population 1 : DNA = [0111] : FITNESS = 13
+Population 2 : DNA = [1010] : FITNESS = 12
+Population 3 : DNA = [1100] : FITNESS = 9
+SELECTION COMPLETE
+Child : DNA = [1111] NOT_SUITABLE
+
+Generation <20> current_max: 16
+===
+Population 0 : DNA = [1110] : FITNESS = 16
+Population 1 : DNA = [0111] : FITNESS = 13
+Population 2 : DNA = [1010] : FITNESS = 12
+Population 3 : DNA = [1100] : FITNESS = 9
+SELECTION COMPLETE
+Child : DNA = [1100] FITNESS =  9
+==============
+
+Generation <21> current_max: 16
+===
+Population 0 : DNA = [1110] : FITNESS = 16
+Population 1 : DNA = [0111] : FITNESS = 13
+Population 2 : DNA = [1010] : FITNESS = 12
+Population 3 : DNA = [1100] : FITNESS = 9
+SELECTION COMPLETE
+Child : DNA = [0111] FITNESS =  13
+==============
+
+Generation <22> current_max: 16
+===
+Population 0 : DNA = [1110] : FITNESS = 16
+Population 1 : DNA = [0111] : FITNESS = 13
+Population 2 : DNA = [1010] : FITNESS = 12
+Population 3 : DNA = [1100] : FITNESS = 9
+SELECTION COMPLETE
+Child : DNA = [1100] FITNESS =  9
+==============
+
+Generation <23> current_max: 16
+===
+Population 0 : DNA = [1110] : FITNESS = 16
+Population 1 : DNA = [0111] : FITNESS = 13
+Population 2 : DNA = [1010] : FITNESS = 12
+Population 3 : DNA = [1100] : FITNESS = 9
+SELECTION COMPLETE
+Child : DNA = [0101] FITNESS =  6
+==============
+
+Generation <24> current_max: 16
+===
+Population 0 : DNA = [1110] : FITNESS = 16
+Population 1 : DNA = [0111] : FITNESS = 13
+Population 2 : DNA = [1010] : FITNESS = 12
+Population 3 : DNA = [1100] : FITNESS = 9
+SELECTION COMPLETE
+Child : DNA = [1110] FITNESS =  16
+==============
+
+Generation <25> current_max: 16
+===
+Population 0 : DNA = [1110] : FITNESS = 16
+Population 1 : DNA = [0111] : FITNESS = 13
+Population 2 : DNA = [1010] : FITNESS = 12
+Population 3 : DNA = [1100] : FITNESS = 9
+SELECTION COMPLETE
+Child : DNA = [0111] FITNESS =  13
+==============
+
+Generation <26> current_max: 16
+===
+Population 0 : DNA = [1110] : FITNESS = 16
+Population 1 : DNA = [0111] : FITNESS = 13
+Population 2 : DNA = [1010] : FITNESS = 12
+Population 3 : DNA = [1100] : FITNESS = 9
+SELECTION COMPLETE
+Child : DNA = [0111] FITNESS =  13
+==============
+
+Generation <27> current_max: 16
+===
+Population 0 : DNA = [1110] : FITNESS = 16
+Population 1 : DNA = [0111] : FITNESS = 13
+Population 2 : DNA = [1010] : FITNESS = 12
+Population 3 : DNA = [1100] : FITNESS = 9
+SELECTION COMPLETE
+Child : DNA = [1010] FITNESS =  12
+==============
+
+Generation <28> current_max: 16
+===
+Population 0 : DNA = [1110] : FITNESS = 16
+Population 1 : DNA = [0111] : FITNESS = 13
+Population 2 : DNA = [1010] : FITNESS = 12
+Population 3 : DNA = [1100] : FITNESS = 9
+SELECTION COMPLETE
+Child : DNA = [1010] FITNESS =  12
+==============
+
+Generation <29> current_max: 16
+===
+Population 0 : DNA = [1110] : FITNESS = 16
+Population 1 : DNA = [0111] : FITNESS = 13
+Population 2 : DNA = [1010] : FITNESS = 12
+Population 3 : DNA = [1100] : FITNESS = 9
+SELECTION COMPLETE
+Child : DNA = [1010] FITNESS =  12
+==============
+
+
+Final Candidate: 1110
+Fitness: 16
